@@ -1,0 +1,29 @@
+{
+  "name": "start-project",
+  "version": "1.0.0",
+  "description": "Mean Git Start",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jajossy/MEAN-Stack-With-Angular-2-Tutorial.git"
+  },
+  "keywords": [
+    "Mean",
+    "Git",
+    "Start",
+    "Application"
+  ],
+  "author": "Jolaosho Joseph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jajossy/MEAN-Stack-With-Angular-2-Tutorial/issues"
+  },
+  "homepage": "https://github.com/jajossy/MEAN-Stack-With-Angular-2-Tutorial#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.3.13"
+  }
+}
